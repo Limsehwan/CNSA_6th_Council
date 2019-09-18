@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Toolbar tool_bar = findViewById(R.id.tool_bar);
-        getSupportActionBar(tool_bar);
+       //임세환 멋쟁이
     }
 }
